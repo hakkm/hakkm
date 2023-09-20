@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Linux lover, on a mission to decode the secrets of computers/Linux. 🕵️‍♂️
+
 Inspired by 👉 [anahr](https://www.youtube.com/@anaHr)
+
 ⚡ Fun fact:
 - neovim user
 - 🖥 I use Arch Linux, btw
