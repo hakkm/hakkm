@@ -22,4 +22,3 @@ Inspired by 👉 [anahr](https://www.youtube.com/@anaHr)
 - neovim user
 - 🖥 I use Arch Linux, btw
 - Minimal Mindset
-- Looking to collaborate on a nvim plugin
