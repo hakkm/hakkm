@@ -66,28 +66,10 @@ I love connecting with people who:
 
 ### 📈 GitHub Stats
 
-<p align="center" style="margin: 0 0 1rem;">
-  <a href="https://github.com/hakkm" target="_blank" rel="noopener noreferrer"
-     style="display:inline-block; text-decoration:none; margin:0 .5rem;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=hakkm&show_icons=true&theme=radical"
-      alt="GitHub stats"
-      style="max-width:100%; width:420px; height:auto; border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.18); transition:transform .18s ease;">
-  </a>
-
-  <a href="https://github.com/hakkm" target="_blank" rel="noopener noreferrer"
-     style="display:inline-block; text-decoration:none; margin:0 .5rem;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=hakkm&theme=radical"
-      alt="GitHub streak"
-      style="max-width:100%; width:420px; height:auto; border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.18); transition:transform .18s ease;">
-  </a>
-</p>
-
-<style>
-  /* GitHub strips most CSS in READMEs, but small inline hover behaviour helps when previewing locally */
-  a:hover img { transform: translateY(-6px) scale(1.02); }
-</style>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hakkm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hakkm&theme=radical" alt="GitHub Streak Stats" />
+</div>
 
 ---
 
