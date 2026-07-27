@@ -1,81 +1,43 @@
-# Hi there, I'm Hakim 👋
+### `$ whoami`
 
-🎓 **Computer Science Student** | 💻 **Open-Source Contributor** | 🤖 **AI Engineering Enthusiast** | 🌍 **Based in Morocco**
+# Hi, I'm Hakim 👋
 
-I’m a passionate **software engineering student** who learns by creating, exploring, and improving real-world projects.  
-I love building **smart, scalable systems** that bring ideas to life — from backend microservices to intelligent AI agents.  
-Above all, I enjoy working with people who share curiosity, kindness, and a sense of craftsmanship in software.
+**Software engineer from Morocco** 🇲🇦 · full-stack, DevOps, and applied AI.
 
----
+I build web apps end to end, from the React front end down to the backend and the cloud it runs on, and I like turning fuzzy requirements into things that actually ship. Most recently a Delivery AI Software Engineering Intern at **BCG X**.
 
-### 💡 What I’m Into
+🌐 [**h4k5.net**](https://h4k5.net) · 💼 [in/hakim-khabir](https://www.linkedin.com/in/hakim-khabir) · ✉️ hakim@h4k5.net
 
-- 🧠 **Software Engineering:** Clean architecture, design patterns, and **SOLID principles** for maintainable code.  
-- ⚙️ **DevOps & Cloud:** Docker, Kubernetes, Terraform, Ansible, CI/CD, and the AWS basics (Mitwely Labs Certified).  
-- 🌐 **Full-Stack Development:** React, Node.js, Spring Boot, and TypeScript.  
-- 🤖 **AI Engineering:** Building and experimenting with **AI agents** and creative automation tools.  
-- 🔒 **Blockchain:** Understanding decentralized systems and upgrading previous projects with modern practices.  
-- 📊 **Algorithms & Data Handling:** SQL, numerical computation, and data-driven logic.  
+> 🟢 **Open to work**: software, AI, and DevOps roles, anywhere. [Get in touch](mailto:hakim@h4k5.net).
 
 ---
 
-### 🧰 Tech Stack
+### What I work with
 
-#### 🖥️ Languages
-C | C++ | Python | Java | JavaScript | TypeScript | Bash  
+- **Languages** · C, C++, Python, Java, JavaScript, TypeScript, Bash
+- **Full-stack** · React, Next.js, Node.js, Spring Boot, FastAPI, Tailwind
+- **Cloud & DevOps** · Docker, Kubernetes, Terraform, Ansible, GitHub Actions, AWS, GCP
+- **Data** · PostgreSQL, MySQL, MongoDB, Redis, Supabase
+- **AI** · LLM agents, tool use, and workflows that hold up in production
 
-#### ⚡ Frameworks & Tools
-React | Node.js | Spring Boot | Tailwind CSS | Supabase | Docker | Kubernetes |  
-Terraform | Ansible | GitHub Actions | AWS | Fedora Linux ❤️  
-
-#### 🧑‍💻 Editor
-🌀 **Neovim** — my comfort zone for focused, distraction-free coding.  
-But depending on the project, I also use **IntelliJ**, **VS Code**, or **Cursor** —  
-sometimes for their features, sometimes for the *vibe*.  
-For me, coding is about keeping the flow between **focus and creativity** ✨  
+AWS DevOps certified (Cloud Native Base Camp) · Finalist, GITEX Africa 2025.
 
 ---
 
-### 🌱 Currently Exploring
+### Currently into
 
-- **Microservices** and scalable distributed architectures  
-- **AI Engineering** — designing and experimenting with autonomous AI agents  
-- Enhancing DevOps automation pipelines and infrastructure as code  
-
----
-
-### 💬 Let's Connect
-
-I love connecting with people who:
-- Share knowledge generously 🤝  
-- Enjoy building meaningful things 🚀  
-- Believe in respect, curiosity, and kindness 💙  
-
-📫 **Reach out to me on [LinkedIn](https://www.linkedin.com/in/your-link-here)** — I’d love to chat, learn, or collaborate!  
+- Microservices and distributed systems that don't fall over
+- AI engineering: designing and breaking autonomous agents
+- Tighter DevOps pipelines and infrastructure as code
 
 ---
 
-### ✨ Fun Facts
+### My setup
 
-- I use **Fedora Linux** as my main OS — stability, speed, and style combined 🐧  
-- My workflow balances **Neovim focus** with **IDE flexibility**  
-- I believe **small consistent progress beats intensity**  
-- I find joy in making **clean commits** and **beautifully structured codebases**  
-
----
-
-### 📈 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hakkm&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hakkm&theme=radical" alt="GitHub Streak Stats" />
-</div>
+- 🐧 **Fedora Linux** as the daily driver
+- ⌨️ **Neovim** for focused work; IntelliJ, VS Code, or Cursor when a project calls for it
+- 🗂️ **Obsidian** for notes and time-blocking the day
 
 ---
 
-### 💫 Quote I Live By
-> “Be kind, stay curious, and keep building.”
-
----
-
-🌟 _Thanks for visiting — may your terminal always be green and your ideas always compiling!_
+<sub>Small, consistent progress beats intensity. Building in the open at <a href="https://h4k5.net">h4k5.net</a>.</sub>
