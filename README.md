@@ -10,7 +10,7 @@ I build web apps end to end, from the React front end down to the backend and th
 
 > 🟢 **Open to work**: software, AI, and DevOps roles, anywhere. [Get in touch](mailto:hakim@h4k5.net).
 >
-> 🛠️ **Freelance on Fiverr**: I [fix bugs in vibe-coded apps](https://www.fiverr.com/hakim_kabi/fix-bugs-in-your-react-nextjs-python-or-nodejs-app) built with Lovable, Bolt, Cursor or Replit, and [set up Docker, CI/CD and AWS or GCP deploys](https://www.fiverr.com/hakim_kabi/set-up-docker-ci-cd-pipelines-and-deploy-your-app-to-aws-or-gcp).
+> 🛠️ **Freelance on Fiverr**: I [build n8n workflows and AI agents](https://www.fiverr.com/hakim_kabi/build-n8n-automation-workflows-n8n-ai-agents-and-ai-automation), [fix bugs in vibe-coded apps](https://www.fiverr.com/hakim_kabi/fix-bugs-in-your-react-nextjs-python-or-nodejs-app) built with Lovable, Bolt, Cursor or Replit, and [set up Docker, CI/CD and AWS or GCP deploys](https://www.fiverr.com/hakim_kabi/set-up-docker-ci-cd-pipelines-and-deploy-your-app-to-aws-or-gcp).
 
 ---
 
