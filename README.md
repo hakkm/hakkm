@@ -9,6 +9,8 @@ I build web apps end to end, from the React front end down to the backend and th
 🌐 [**h4k5.net**](https://h4k5.net) · 💼 [in/hakim-khabir](https://www.linkedin.com/in/hakim-khabir) · ✉️ hakim@h4k5.net
 
 > 🟢 **Open to work**: software, AI, and DevOps roles, anywhere. [Get in touch](mailto:hakim@h4k5.net).
+>
+> 🛠️ **Freelance on Fiverr**: I [fix bugs in vibe-coded apps](https://www.fiverr.com/hakim_kabi/fix-bugs-in-your-react-nextjs-python-or-nodejs-app) built with Lovable, Bolt, Cursor or Replit, and [set up Docker, CI/CD and AWS or GCP deploys](https://www.fiverr.com/hakim_kabi/set-up-docker-ci-cd-pipelines-and-deploy-your-app-to-aws-or-gcp).
 
 ---
 
